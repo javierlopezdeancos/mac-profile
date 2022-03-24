@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Javier ",
+      "surnames": "López de Ancos",
+      "title": "Software Engineer",
+      "description": "Hi, \n\nI'm Javier,  I'm 43 years old and I'm from Toledo but I live in Madrid from 1 year ago. \n\nI have around 15 years of experience in web development. \n\nI'm very curious guy so I learn a lot of things in this timeline, from product design to bakend languages, and of course all frontend ecosystem that you can imagine.\n\nI like really good projects, quality, and enviroments to grow up and learn with my team.",
+      "avatar": {
+        "alt": "javi.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/672402b6-22a0-43c9-a604-4faf38b88ed4_javi.jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javierlopezdeancos/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/javierlopezdeancos"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/javierland"
+      },
+      {
+        "type": "other",
+        "URL": "https://javierlopezdeancos.dev"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/javierlopezdeancos/"
+        }
+      ]
+    }
+  }
+}
