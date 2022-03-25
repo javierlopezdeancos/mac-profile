@@ -335,6 +335,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "SNGULAR",
+          "image": {
+            "alt": "1646729329252.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4b6b38aa-b1f6-48bb-8adc-aa37e437ed9d_1646729329252.jpeg"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": " Frontend Developer",
+            "startDate": "2012-01-01",
+            "finishDate": "2012-07-01",
+            "challenges": [
+              {
+                "description": "* Implementation of several features for the BBVA group with SPA app, one of the first to adopt this pattern in the Spanish business circuit.\n\n*Implementation of features for the card business line and global position with Backbone, jQuery, Sass.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
