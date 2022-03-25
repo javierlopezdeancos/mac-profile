@@ -95,6 +95,118 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Zartis",
+          "image": {
+            "alt": "1647428819555.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b337087d-229c-48e7-a3b1-03492a9de395_1647428819555.jpeg"
+          },
+          "URL": "https://www.zartis.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-01-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "- Technology Modernization for the App Front Layer for Vizor\n\nDefinition and implementation of themeable component layer for the adoption of a design system.\n\nDefinition of roadmaps and milestones for the release of consumable components for implementation.\n\nDocumentation of the chosen technical decisions, the parts built, the recommended methodologies and processes.\n\nMarkdown docs on each project and the Azure devops wiki.\n\n- Rewriting of an application to measure audiences of 605tv\n\nCreation of a library of themeable components from scratch for consumption by the different teams in different applications.\n\nCreation of server to provide different domain data applications through a REST API.\n\n- Development of electron application for Vortic Art.\nImplementation of an electron application for the management of art galleries.\n\n- Technical team leader for the calendar domain in Valant in its application for the management of medical and health centers. Implementation and application of features in the calendar domain\n\nDefinition of business tasks at a low level\n\nCreation of roadmaps and milestones for the delivery of the product phases.\nImprovement of the consistency in the development experience of corporate frontend tools\n\nCreation of corporate CLI for generation and management of new projects and their tools with Nodejs and Webpack 4x.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
