@@ -471,6 +471,22 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13d5d203-321a-4d5d-9bc1-afae0e2602c5_institucional.png"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Degree in Advertising and Graphic Design.",
+        "startDate": "2006-10-01",
+        "finishDate": "2008-02-01",
+        "institution": {
+          "name": "Toledo School of Fine Arts",
+          "description": "* Toledo School of Fine Arts (2008)\n     Degree in Advertising and Graphic Design.",
+          "URL": "http://www.escueladeartetoledo.es",
+          "image": {
+            "alt": "LOGOEATIHistoricopng.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/bdbf0920-1b9f-48a4-a0df-8dfb4eec10f7_logoeatihistoricopng.png"
+          }
+        }
       }
     ]
   },
