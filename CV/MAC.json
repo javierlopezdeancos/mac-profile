@@ -653,6 +653,22 @@
       },
       {
         "details": {
+          "name": "A deer in my living room ",
+          "description": "A post published into taleto it blog",
+          "URL": "https://blog.talentoit.org/un-ciervo-en-un-salon",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.23.16.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/02eb5903-06a4-421c-ad71-fd23e06148aa_captura-de-pantalla-.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-10-01",
+        "tags": [
+          "Post"
+        ]
+      },
+      {
+        "details": {
           "name": "I need a CLI, Should I write it in Go or Node?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
