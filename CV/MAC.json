@@ -243,50 +243,6 @@
       },
       {
         "organization": {
-          "name": "Bravofly Rumbo Group ",
-          "image": {
-            "alt": "1519894031669.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6a1ad738-8674-4bf3-a76a-f1ac67898d70_1519894031669.jpeg"
-          },
-          "URL": "https://www.rumbo.com"
-        },
-        "roles": [
-          {
-            "name": "Bravofly Rumbo Group",
-            "startDate": "2013-05-01",
-            "finishDate": "2015-05-01",
-            "challenges": [
-              {
-                "description": "* Architecture design for the frontend in the Seo flights business line\n\n* Use of event bus, asynchronous patterns of data consumption, design of different pipelines.\n\n* Design and implementation of a new SEO application for the flight domain.\n\n* Implementation of necessary pieces for the frontend in the flight SEO business line.\n\n* Vanilla Javascript applying SOLID concepts with TDD methodology.\n\n* Vanilla Javascript, Mocha, Chai.\n\n* Creation of a project generator template that already had all the tools predefined to start delivering business value by applying TDD.\n\n* Yeoman, google closure-library.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "Gulp.JS",
-                "type": "technology"
-              },
-              {
-                "name": "Grunt",
-                "type": "technology"
-              },
-              {
-                "name": "chai",
-                "type": "technology"
-              },
-              {
-                "name": "Sinon",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Zscaler",
           "image": {
             "alt": "1647979396680.jpeg",
@@ -446,6 +402,50 @@
               },
               {
                 "name": "Backbone",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bravofly Rumbo Group ",
+          "image": {
+            "alt": "1519894031669.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/6a1ad738-8674-4bf3-a76a-f1ac67898d70_1519894031669.jpeg"
+          },
+          "URL": "https://www.rumbo.com"
+        },
+        "roles": [
+          {
+            "name": "Front-End Developer",
+            "startDate": "2013-05-01",
+            "finishDate": "2015-05-01",
+            "challenges": [
+              {
+                "description": "* Architecture design for the frontend in the Seo flights business line\n\n* Use of event bus, asynchronous patterns of data consumption, design of different pipelines.\n\n* Design and implementation of a new SEO application for the flight domain.\n\n* Implementation of necessary pieces for the frontend in the flight SEO business line.\n\n* Vanilla Javascript applying SOLID concepts with TDD methodology.\n\n* Vanilla Javascript, Mocha, Chai.\n\n* Creation of a project generator template that already had all the tools predefined to start delivering business value by applying TDD.\n\n* Yeoman, google closure-library.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              },
+              {
+                "name": "Sinon",
                 "type": "technology"
               }
             ]
