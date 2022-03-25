@@ -59,6 +59,19 @@
           }
         ],
         "summary": ""
+      },
+      {
+        "title": "Netflix Eng",
+        "type": "reading",
+        "URL": "https://netflixtechblog.com",
+        "authors": [
+          {
+            "name": "Netflix",
+            "surnames": "Netflix",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
       }
     ]
   },
