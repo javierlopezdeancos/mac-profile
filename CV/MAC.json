@@ -653,7 +653,7 @@
       },
       {
         "details": {
-          "name": "Necesito una CLI ¿la escribo en Node o en Golang?",
+          "name": "I need a CLI, I should write it in Go or Node?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
           "image": {
