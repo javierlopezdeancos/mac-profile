@@ -454,6 +454,26 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "  Bachelor’s Degree in Electronic Industrial Engineering.",
+        "startDate": "1996-10-01",
+        "finishDate": "2002-02-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "* Technical University of Madrid (2002)\n     Bachelor’s Degree in Electronic Industrial Engineering.\n",
+          "URL": "https://www.upm.es",
+          "image": {
+            "alt": "institucional.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13d5d203-321a-4d5d-9bc1-afae0e2602c5_institucional.png"
+          }
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
