@@ -703,6 +703,32 @@
       },
       {
         "details": {
+          "name": "Developments based on MVC in Javascript",
+          "description": "Developments based on MVC in Javascript",
+          "URL": "https://www.youtube.com/watch?v=XcNYRpb84vI",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.31.47.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ab5c634a-a70b-4cb9-98f6-5adb4c016833_captura-de-pantalla-.png"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2006-06-01",
+        "relatedCompetences": [
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Talk"
+        ]
+      },
+      {
+        "details": {
           "name": "I need a CLI, Should I write it in Go or Node?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
