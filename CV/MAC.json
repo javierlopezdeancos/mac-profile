@@ -47,6 +47,57 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Zscaler",
+          "image": {
+            "alt": "1647979396680.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/eeabe67d-a846-446e-b41c-bbc67b355839_1647979396680.jpeg"
+          },
+          "URL": "https://www.zscaler.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Writing a new Cloud Isolation Browser product to Zscaler\n\nWrite 2 microservices client/server with domain event communication in Client (Preact/Typescript) with Server (Express/Nodejs/Typescript/Chrome APIS).\n\nDocumentation of the chosen technical decisions in proper ADRs, the parts built, the recommended methodologies and processes.\n\nHigh use of Dockerized containers orchestrated with kubernetes.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Golang",
+                "type": "technology"
+              },
+              {
+                "name": "Preact",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
