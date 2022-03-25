@@ -645,6 +645,10 @@
           {
             "name": "NodeJS",
             "type": "technology"
+          },
+          {
+            "name": "Golang",
+            "type": "technology"
           }
         ],
         "tags": [
