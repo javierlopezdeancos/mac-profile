@@ -481,6 +481,35 @@
       },
       {
         "details": {
+          "name": "Fisima",
+          "description": "Yet another finite state machine implemented in typescript.",
+          "URL": "https://github.com/Devnilson/fisima",
+          "image": {
+            "alt": "logoYellow400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e6bb054f-1ced-4d39-809c-fe26a6b48b5a_logoyellow400.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "higgsboson",
           "description": "Higgsboson class components is a set of classes to style core native components.",
           "URL": "https://github.com/javierlopezdeancos/higgsboson",
