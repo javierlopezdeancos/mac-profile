@@ -669,6 +669,40 @@
       },
       {
         "details": {
+          "name": "Complete flow testing in Javascript",
+          "description": "Tlask to explain a complete success case buidldin a new dev process to Rumbo Bravofly Group focused on TDD and quality gates.",
+          "URL": "http://slides.com/javierland/completejavascriptflow/fullscreen#/1",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.26.32.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7b3cbf6d-5e49-46ea-b775-c639fc3e026a_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2013-09-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Mocha",
+            "type": "technology"
+          },
+          {
+            "name": "chai",
+            "type": "technology"
+          },
+          {
+            "name": "Grunt",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "GDG"
+        ]
+      },
+      {
+        "details": {
           "name": "I need a CLI, Should I write it in Go or Node?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
