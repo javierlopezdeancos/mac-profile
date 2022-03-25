@@ -51,6 +51,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "SMS Europa para la Junta de Comunidades de Castilla-La Mancha",
+          "image": {
+            "alt": "1519856482244.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e9e2134d-1749-40b5-9f1e-5d1dcedc67fa_1519856482244.jpeg"
+          },
+          "URL": "https://sms-europa.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer and UI Designer",
+            "startDate": "2010-05-01",
+            "finishDate": "2011-12-01",
+            "challenges": [
+              {
+                "description": "* Implementation of features for client web pages Castilla-La Mancha Community Council.\n\n* Interface design and implementation of various features web pages of the Castilla-La Mancha Community Board.\njQuery, Less, Php.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Drupal",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Zartis",
           "image": {
             "alt": "1647428819555.jpeg",
