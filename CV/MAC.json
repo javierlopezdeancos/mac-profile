@@ -45,6 +45,21 @@
         "topic": "Facilitator of a local Google developer group GDG in Toledo",
         "fact": "Facilitator of a local **Google developer group community** in my hometown, Toledo, promoting the interaction of local talent in a city where technology is still a very rough issue.\n"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Github Blog",
+        "type": "reading",
+        "URL": "https://github.blog",
+        "authors": [
+          {
+            "name": "Github",
+            "surnames": "Github",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
     ]
   },
   "experience": {
