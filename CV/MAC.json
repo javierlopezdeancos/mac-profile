@@ -303,6 +303,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "At Sistemas",
+          "image": {
+            "alt": "1646817241810.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b422667b-cfce-451b-883e-563195d08220_1646817241810.jpeg"
+          },
+          "URL": "https://www.atsistemas.com/es"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2012-08-01",
+            "finishDate": "2013-05-01",
+            "challenges": [
+              {
+                "description": "* Implementation of various features for the Bankinter group app\n\n* Implementation of features for mobile app using apache cordova framework.\n\n* Creation of internal framework for Smartv\n\n* Design and implementation of plugable architecture for internal framework of \n\n* SmartTv applications\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "CoffeeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
