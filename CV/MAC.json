@@ -211,6 +211,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Packlink",
+          "image": {
+            "alt": "1581078899600.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ea921a71-4a38-48a5-9e5c-8a30b9d18e5e_1581078899600.jpeg"
+          },
+          "URL": "https://www.packlink.es"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-01",
+            "challenges": [
+              {
+                "description": "* Design, conceptualization and new architecture to consume customizable styles by themes to all Packlink applications and their whitelabels products as Ebay.\n\n* Architecture definition to style components.\n\n* Conventions documentations, patterns and styles componentization guides.\n\n* Refactoring to React all Packlink Pro app.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
