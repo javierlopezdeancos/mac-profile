@@ -456,6 +456,31 @@
     "projects": [
       {
         "details": {
+          "name": "La Guagua",
+          "description": "Another typescript bus event.",
+          "URL": "https://github.com/javierlopezdeancos/laguagua",
+          "image": {
+            "alt": "logo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0bb2aa16-db65-4778-81d5-552b949b1f1d_logo.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-08-01",
+            "finishDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "React Against The Machine",
           "description": "An declarative state machine to react.",
           "URL": "https://github.com/javierlopezdeancos/react-against-the-machine",
