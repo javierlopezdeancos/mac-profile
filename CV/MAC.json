@@ -802,6 +802,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MongoDB for DBAs",
+        "startDate": "2013-09-01",
+        "finishDate": "2013-08-01",
+        "institution": {
+          "name": "MongoDB University",
+          "description": "",
+          "URL": "https://www.linkedin.com/in/javierlopezdeancos/details/featured/1580836491525/single-media-viewer/",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.41.19.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/fe541eb4-d5eb-4b8b-b250-d47d95b54674_captura-de-pantalla-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "  Bachelor’s Degree in Electronic Industrial Engineering.",
