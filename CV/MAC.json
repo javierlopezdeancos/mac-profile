@@ -609,6 +609,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Jekyll, Don't build complex than is easy",
+          "description": "Welcome to the static generators era. We will see the most famous, jekyll with him use cases. We will see him instalation, file system, template system liquid, collections, permanlinks, build and deploy.",
+          "URL": "https://gdgtoledo.github.io/web/meetups/2017-10-26-jekyll-no-comliques-lo-que-es-sencillo/",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.13.01.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/3aa65073-285a-4a0b-8dba-bdf6731fe3a0_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2017-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Jekyll",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "GDG"
+        ]
+      },
+      {
+        "details": {
           "name": "Necesito una CLI ¿la escribo en Node o en Golang?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
