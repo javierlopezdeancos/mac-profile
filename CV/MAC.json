@@ -631,6 +631,28 @@
       },
       {
         "details": {
+          "name": "Typescript, no mantengas relaciones sexuales de riesgo con javascript",
+          "description": "You are tried with your typescript experience? That could do typescript for us? When do should use it?\n",
+          "URL": "https://gdgtoledo.github.io/web/meetups/2020-02-27-lightning-talks-first-edition/",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.18.11.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/bbe16bfd-3e5f-4aad-8399-1a0b14d87b0f_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2020-02-01",
+        "relatedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "GDG"
+        ]
+      },
+      {
+        "details": {
           "name": "Necesito una CLI ¿la escribo en Node o en Golang?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
