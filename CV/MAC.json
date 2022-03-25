@@ -452,6 +452,44 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "React Against The Machine",
+          "description": "An declarative state machine to react.",
+          "URL": "https://github.com/javierlopezdeancos/react-against-the-machine",
+          "image": {
+            "alt": "logo_small.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/dbe2dfc4-fb7c-40e8-a5be-15858ce8f905_logo_small.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
