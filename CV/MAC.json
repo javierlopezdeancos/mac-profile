@@ -402,46 +402,6 @@
       },
       {
         "organization": {
-          "name": "Freelance",
-          "image": {
-            "alt": "javi.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/724c64e6-f96e-4ac5-9a89-4f1f94b90844_javi.jpeg"
-          },
-          "URL": "https://javierlopezdeancos.dev"
-        },
-        "roles": [
-          {
-            "name": "Front-End Developer",
-            "startDate": "2010-05-01",
-            "finishDate": "2011-12-01",
-            "challenges": [
-              {
-                "description": "* Implementation of features for client web pages Castilla-La Mancha Community Council.\n\n* Interface design and implementation of various features web pages of the Castilla-La Mancha Community Board.\n\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "SMS Europa /Junta de Comunidades de Castilla-La Mancha",
           "image": {
             "alt": "1519856482244.jpeg",
@@ -470,6 +430,46 @@
               },
               {
                 "name": "Drupal",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "image": {
+            "alt": "javi.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/724c64e6-f96e-4ac5-9a89-4f1f94b90844_javi.jpeg"
+          },
+          "URL": "https://javierlopezdeancos.dev"
+        },
+        "roles": [
+          {
+            "name": "Front-End Developer",
+            "startDate": "2010-05-01",
+            "finishDate": "2011-12-01",
+            "challenges": [
+              {
+                "description": "* Interface design and Implementation of features for web pages of various clients using jQuery, Less, Php and Wordpress.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
                 "type": "technology"
               },
               {
