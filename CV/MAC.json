@@ -11,8 +11,8 @@
       "title": "Software Engineer",
       "description": "Hi, \n\nI'm Javier,  I'm 43 years old and I'm from Toledo but I live in Madrid from 1 year ago. \n\nI have around 15 years of experience in web development. \n\nI'm very curious guy so I learn a lot of things in this timeline, from product design to bakend languages, and of course all frontend ecosystem that you can imagine.\n\nI like really good projects, quality, and enviroments to grow up and learn with my team.",
       "avatar": {
-        "alt": "javi.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/672402b6-22a0-43c9-a604-4faf38b88ed4_javi.jpeg"
+        "alt": "1645874611216.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/b5254609-20ce-4072-b399-c5a381aee3b4_1645874611216.jpeg"
       },
       "location": {
         "notes": "Madrid"
@@ -717,11 +717,11 @@
             "type": "technology"
           },
           {
-            "name": "chai",
+            "name": "Grunt",
             "type": "technology"
           },
           {
-            "name": "Grunt",
+            "name": "chai",
             "type": "technology"
           }
         ],
@@ -743,11 +743,11 @@
         "publishingDate": "2014-06-01",
         "relatedCompetences": [
           {
-            "name": "MVC",
+            "name": "JavaScript",
             "type": "technology"
           },
           {
-            "name": "JavaScript",
+            "name": "MVC",
             "type": "technology"
           }
         ],
@@ -806,6 +806,268 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mocha",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Enzyme",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Litelement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grunt",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Backbone",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Yarn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jekyll",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sinon",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gulp.JS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magento",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "certification",
