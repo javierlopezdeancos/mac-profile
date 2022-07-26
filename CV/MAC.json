@@ -20,30 +20,30 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javierlopezdeancos/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/javierlopezdeancos"
+      },
+      {
+        "type": "other",
+        "URL": "https://javierlopezdeancos.dev"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/javierland"
       },
       {
-        "type": "other",
-        "URL": "https://javierlopezdeancos.dev"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javierlopezdeancos/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Winner of \"Go App Toledo\" in 2016",
-        "fact": "Last December 23, 2016 I won the contest \"Go App Toledo\",  that \n was organized by **Google España** and **apps4citizens**.\n\n[Noticial en el periodico](https://www.elperiodico.com/es/apps-para-el-ciudadano-comprometido/20161230/eagle-gestion-publica-de-codigo-abierto-5718435)\n\nTake a look at the [\"Eagle\" prototype](https://marvelapp.com/prototype/1i7j8b5/screen/17749599).\n"
-      },
-      {
         "topic": "Facilitator of a local Google developer group GDG in Toledo",
         "fact": "Facilitator of a local **Google developer group community** in my hometown, Toledo, promoting the interaction of local talent in a city where technology is still a very rough issue.\n"
+      },
+      {
+        "topic": "Winner of \"Go App Toledo\" in 2016",
+        "fact": "Last December 23, 2016 I won the contest \"Go App Toledo\",  that \n was organized by **Google España** and **apps4citizens**.\n\n[Noticial en el periodico](https://www.elperiodico.com/es/apps-para-el-ciudadano-comprometido/20161230/eagle-gestion-publica-de-codigo-abierto-5718435)\n\nTake a look at the [\"Eagle\" prototype](https://marvelapp.com/prototype/1i7j8b5/screen/17749599).\n"
       }
     ],
     "recommendations": [
@@ -57,8 +57,7 @@
             "surnames": "Github",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Netflix Eng",
@@ -70,13 +69,64 @@
             "surnames": "Netflix",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Zscaler",
+          "image": {
+            "alt": "1647979396680.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/eeabe67d-a846-446e-b41c-bbc67b355839_1647979396680.jpeg"
+          },
+          "URL": "https://www.zscaler.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "* Writing a new Cloud Isolation Browser product to Zscaler\n\n* Write 2 microservices client/server with domain event communication in Client (Preact/Typescript) with Server (Express/Nodejs/Typescript/Chrome APIS).\n\n* Documentation of the chosen technical decisions in proper ADRs, the parts built, the recommended methodologies and processes.\n\n* High use of Dockerized containers orchestrated with kubernetes.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Golang",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Preact",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Zartis",
@@ -98,7 +148,47 @@
             ],
             "competences": [
               {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
                 "type": "technology"
               },
               {
@@ -106,7 +196,7 @@
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
+                "name": "PostCSS",
                 "type": "technology"
               },
               {
@@ -118,47 +208,7 @@
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Webpack",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
                 "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
                 "type": "technology"
               },
               {
@@ -166,15 +216,7 @@
                 "type": "technology"
               },
               {
-                "name": "TestingLibrary",
-                "type": "technology"
-              },
-              {
-                "name": "Electron",
-                "type": "technology"
-              },
-              {
-                "name": "MaterialUI",
+                "name": "Sass",
                 "type": "technology"
               },
               {
@@ -182,58 +224,15 @@
                 "type": "technology"
               },
               {
-                "name": "PostCSS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Zscaler",
-          "image": {
-            "alt": "1647979396680.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/eeabe67d-a846-446e-b41c-bbc67b355839_1647979396680.jpeg"
-          },
-          "URL": "https://www.zscaler.com"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "* Writing a new Cloud Isolation Browser product to Zscaler\n\n* Write 2 microservices client/server with domain event communication in Client (Preact/Typescript) with Server (Express/Nodejs/Typescript/Chrome APIS).\n\n* Documentation of the chosen technical decisions in proper ADRs, the parts built, the recommended methodologies and processes.\n\n* High use of Dockerized containers orchestrated with kubernetes.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
+                "name": "TestingLibrary",
                 "type": "technology"
               },
               {
-                "name": "Docker",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "Golang",
-                "type": "technology"
-              },
-              {
-                "name": "Preact",
+                "name": "Webpack",
                 "type": "technology"
               }
             ]
@@ -261,19 +260,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
                 "type": "technology"
               },
               {
@@ -281,75 +268,19 @@
                 "type": "technology"
               },
               {
-                "name": "Sass",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "At Sistemas",
-          "image": {
-            "alt": "1646817241810.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b422667b-cfce-451b-883e-563195d08220_1646817241810.jpeg"
-          },
-          "URL": "https://www.atsistemas.com/es"
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2012-08-01",
-            "finishDate": "2013-05-01",
-            "challenges": [
-              {
-                "description": "* Implementation of various features for the Bankinter group app\n\n* Implementation of features for mobile app using apache cordova framework.\n\n* Creation of internal framework for Smartv\n\n* Design and implementation of plugable architecture for internal framework of \n\n* SmartTv applications\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Cordova",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "CoffeeScript",
+                "name": "Jest",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SNGULAR",
-          "image": {
-            "alt": "1646729329252.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4b6b38aa-b1f6-48bb-8adc-aa37e437ed9d_1646729329252.jpeg"
-          },
-          "URL": "https://www.sngular.com"
-        },
-        "roles": [
-          {
-            "name": " Frontend Developer",
-            "startDate": "2012-01-01",
-            "finishDate": "2012-07-01",
-            "challenges": [
+              },
               {
-                "description": "* Implementation of several features for the BBVA group with SPA app, one of the first to adopt this pattern in the Spanish business circuit.\n\n*Implementation of features for the card business line and global position with Backbone, jQuery, Sass.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "jQuery",
+                "name": "React",
                 "type": "technology"
               },
               {
                 "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Backbone",
                 "type": "technology"
               }
             ]
@@ -377,7 +308,7 @@
             ],
             "competences": [
               {
-                "name": "Mocha",
+                "name": "Grunt",
                 "type": "technology"
               },
               {
@@ -385,15 +316,83 @@
                 "type": "technology"
               },
               {
-                "name": "Grunt",
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Sinon",
                 "type": "technology"
               },
               {
                 "name": "chai",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "At Sistemas",
+          "image": {
+            "alt": "1646817241810.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/b422667b-cfce-451b-883e-563195d08220_1646817241810.jpeg"
+          },
+          "URL": "https://www.atsistemas.com/es"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2012-08-01",
+            "finishDate": "2013-05-01",
+            "challenges": [
+              {
+                "description": "* Implementation of various features for the Bankinter group app\n\n* Implementation of features for mobile app using apache cordova framework.\n\n* Creation of internal framework for Smartv\n\n* Design and implementation of plugable architecture for internal framework of \n\n* SmartTv applications\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CoffeeScript",
+                "type": "technology"
               },
               {
-                "name": "Sinon",
+                "name": "Cordova",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SNGULAR",
+          "image": {
+            "alt": "1646729329252.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/4b6b38aa-b1f6-48bb-8adc-aa37e437ed9d_1646729329252.jpeg"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": " Frontend Developer",
+            "startDate": "2012-01-01",
+            "finishDate": "2012-07-01",
+            "challenges": [
+              {
+                "description": "* Implementation of several features for the BBVA group with SPA app, one of the first to adopt this pattern in the Spanish business circuit.\n\n*Implementation of features for the card business line and global position with Backbone, jQuery, Sass.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -421,19 +420,19 @@
             ],
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
                 "name": "Drupal",
                 "type": "technology"
               },
               {
                 "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -461,11 +460,11 @@
             ],
             "competences": [
               {
-                "name": "PHP",
+                "name": "Less CSS",
                 "type": "technology"
               },
               {
-                "name": "jQuery",
+                "name": "PHP",
                 "type": "technology"
               },
               {
@@ -473,7 +472,7 @@
                 "type": "technology"
               },
               {
-                "name": "Less CSS",
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -482,6 +481,74 @@
       }
     ],
     "projects": [
+      {
+        "details": {
+          "name": "React Against The Machine",
+          "description": "An declarative state machine to react.",
+          "URL": "https://github.com/javierlopezdeancos/react-against-the-machine",
+          "image": {
+            "alt": "logo_small.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/dbe2dfc4-fb7c-40e8-a5be-15858ce8f905_logo_small.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "higgsboson",
+          "description": "Higgsboson class components is a set of classes to style core native components.",
+          "URL": "https://github.com/javierlopezdeancos/higgsboson",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c5bedc02-6456-41e0-ad8f-c29f6e461262_logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "La Guagua",
@@ -509,103 +576,6 @@
       },
       {
         "details": {
-          "name": "Fisima",
-          "description": "Yet another finite state machine implemented in typescript.",
-          "URL": "https://github.com/Devnilson/fisima",
-          "image": {
-            "alt": "logoYellow400.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e6bb054f-1ced-4d39-809c-fe26a6b48b5a_logoyellow400.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-03-01",
-            "finishDate": "2021-04-01",
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "higgsboson",
-          "description": "Higgsboson class components is a set of classes to style core native components.",
-          "URL": "https://github.com/javierlopezdeancos/higgsboson",
-          "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c5bedc02-6456-41e0-ad8f-c29f6e461262_logo.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-02-01",
-            "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "PostCSS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "React Against The Machine",
-          "description": "An declarative state machine to react.",
-          "URL": "https://github.com/javierlopezdeancos/react-against-the-machine",
-          "image": {
-            "alt": "logo_small.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/dbe2dfc4-fb7c-40e8-a5be-15858ce8f905_logo_small.jpeg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-11-01",
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "TestingLibrary",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Pedigri",
           "description": "Get [the one and only](https://www.youtube.com/watch?v=ZvMsp7s78Do) unique string to your component depending on their component tree channel",
           "URL": "https://github.com/javierlopezdeancos/pedigri",
@@ -622,11 +592,40 @@
             "finishDate": "2021-09-01",
             "competences": [
               {
-                "name": "TypeScript",
+                "name": "Jest",
                 "type": "technology"
               },
               {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Fisima",
+          "description": "Yet another finite state machine implemented in typescript.",
+          "URL": "https://github.com/Devnilson/fisima",
+          "image": {
+            "alt": "logoYellow400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/e6bb054f-1ced-4d39-809c-fe26a6b48b5a_logoyellow400.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-04-01",
+            "competences": [
+              {
                 "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -635,28 +634,6 @@
       }
     ],
     "publicArtifacts": [
-      {
-        "details": {
-          "name": "Jekyll, Don't build complex than is easy",
-          "description": "Welcome to the static generators era. We will see the most famous, jekyll with him use cases. We will see him instalation, file system, template system liquid, collections, permanlinks, build and deploy.",
-          "URL": "https://gdgtoledo.github.io/web/meetups/2017-10-26-jekyll-no-comliques-lo-que-es-sencillo/",
-          "image": {
-            "alt": "Captura de pantalla 2022-03-25 a las 20.13.01.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/3aa65073-285a-4a0b-8dba-bdf6731fe3a0_captura-de-pantalla-.png"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2017-10-01",
-        "relatedCompetences": [
-          {
-            "name": "Jekyll",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "GDG"
-        ]
-      },
       {
         "details": {
           "name": "Doesn't have risk sexual relationships with Typescript",
@@ -681,82 +658,6 @@
       },
       {
         "details": {
-          "name": "A deer in my living room ",
-          "description": "A post published into taleto it blog",
-          "URL": "https://blog.talentoit.org/un-ciervo-en-un-salon",
-          "image": {
-            "alt": "Captura de pantalla 2022-03-25 a las 20.23.16.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/02eb5903-06a4-421c-ad71-fd23e06148aa_captura-de-pantalla-.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-10-01",
-        "tags": [
-          "Post"
-        ]
-      },
-      {
-        "details": {
-          "name": "Complete flow testing in Javascript",
-          "description": "Tlask to explain a complete success case buidldin a new dev process to Rumbo Bravofly Group focused on TDD and quality gates.",
-          "URL": "http://slides.com/javierland/completejavascriptflow/fullscreen#/1",
-          "image": {
-            "alt": "Captura de pantalla 2022-03-25 a las 20.26.32.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7b3cbf6d-5e49-46ea-b775-c639fc3e026a_captura-de-pantalla-.png"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2015-09-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Mocha",
-            "type": "technology"
-          },
-          {
-            "name": "Grunt",
-            "type": "technology"
-          },
-          {
-            "name": "chai",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "GDG"
-        ]
-      },
-      {
-        "details": {
-          "name": "Developments based on MVC in Javascript",
-          "description": "Developments based on MVC in Javascript",
-          "URL": "https://www.youtube.com/watch?v=XcNYRpb84vI",
-          "image": {
-            "alt": "Captura de pantalla 2022-03-25 a las 20.31.47.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ab5c634a-a70b-4cb9-98f6-5adb4c016833_captura-de-pantalla-.png"
-          }
-        },
-        "type": "video",
-        "publishingDate": "2014-06-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MVC",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Talk"
-        ]
-      },
-      {
-        "details": {
           "name": "I need a CLI, Should I write it in Go or Node?",
           "description": "What it is a CLI, what use we should do it. We look how implementent one of them in a simple way with 2 different languages very commons to write this kind of tools, Nodejs and Golang.\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2019-02-28-necesito-una-cli-la-escribo-en-node-o-en-go/",
@@ -769,11 +670,33 @@
         "publishingDate": "2019-02-01",
         "relatedCompetences": [
           {
-            "name": "NodeJS",
+            "name": "Golang",
             "type": "technology"
           },
           {
-            "name": "Golang",
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "GDG"
+        ]
+      },
+      {
+        "details": {
+          "name": "Jekyll, Don't build complex than is easy",
+          "description": "Welcome to the static generators era. We will see the most famous, jekyll with him use cases. We will see him instalation, file system, template system liquid, collections, permanlinks, build and deploy.",
+          "URL": "https://gdgtoledo.github.io/web/meetups/2017-10-26-jekyll-no-comliques-lo-que-es-sencillo/",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.13.01.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/3aa65073-285a-4a0b-8dba-bdf6731fe3a0_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2017-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Jekyll",
             "type": "technology"
           }
         ],
@@ -802,28 +725,98 @@
         "tags": [
           "Eagle"
         ]
+      },
+      {
+        "details": {
+          "name": "Complete flow testing in Javascript",
+          "description": "Tlask to explain a complete success case buidldin a new dev process to Rumbo Bravofly Group focused on TDD and quality gates.",
+          "URL": "http://slides.com/javierland/completejavascriptflow/fullscreen#/1",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.26.32.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7b3cbf6d-5e49-46ea-b775-c639fc3e026a_captura-de-pantalla-.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2015-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Grunt",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Mocha",
+            "type": "technology"
+          },
+          {
+            "name": "chai",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "GDG"
+        ]
+      },
+      {
+        "details": {
+          "name": "A deer in my living room ",
+          "description": "A post published into taleto it blog",
+          "URL": "https://blog.talentoit.org/un-ciervo-en-un-salon",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.23.16.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/02eb5903-06a4-421c-ad71-fd23e06148aa_captura-de-pantalla-.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-10-01",
+        "tags": [
+          "Post"
+        ]
+      },
+      {
+        "details": {
+          "name": "Developments based on MVC in Javascript",
+          "description": "Developments based on MVC in Javascript",
+          "URL": "https://www.youtube.com/watch?v=XcNYRpb84vI",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.31.47.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ab5c634a-a70b-4cb9-98f6-5adb4c016833_captura-de-pantalla-.png"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2014-06-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Talk"
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -836,24 +829,6 @@
       {
         "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
           "type": "technology"
         }
       },
@@ -883,24 +858,6 @@
       },
       {
         "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mocha",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Enzyme",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -919,55 +876,7 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jasmine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Drupal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VanillaJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "web components",
           "type": "technology"
         }
       },
@@ -985,13 +894,61 @@
       },
       {
         "skill": {
-          "name": "Golang",
+          "name": "Gatsby",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TestingLibrary",
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gulp.JS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magento",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mocha",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Enzyme",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web components",
           "type": "technology"
         }
       },
@@ -1004,6 +961,72 @@
       {
         "skill": {
           "name": "Grunt",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sinon",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
           "type": "technology"
         }
       },
@@ -1033,37 +1056,13 @@
       },
       {
         "skill": {
-          "name": "Sinon",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Gatsby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Less CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gulp.JS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Magento",
+          "name": "Jest",
           "type": "technology"
         }
       }
@@ -1072,12 +1071,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Go Bootcamp: Master Golang with 1000+ Exercises and Projects",
+        "startDate": "2019-09-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-b285d17f-51ac-45ba-a355-dcb98a6468f3/",
+          "image": {
+            "alt": "Captura de pantalla 2022-03-25 a las 20.47.52.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/41dc497b-e509-42b1-989a-aa05d7e408df_captura-de-pantalla-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Golang",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "MongoDb for Node.js Developers",
         "startDate": "2013-09-01",
         "finishDate": "2013-10-01",
         "institution": {
           "name": "MongoDB University",
-          "description": "",
           "URL": "https://www.linkedin.com/in/javierlopezdeancos/details/featured/1580836491740/single-media-viewer/",
           "image": {
             "alt": "Captura de pantalla 2022-03-25 a las 20.41.19.png",
@@ -1099,7 +1118,6 @@
         "finishDate": "2013-08-01",
         "institution": {
           "name": "MongoDB University",
-          "description": "",
           "URL": "https://www.linkedin.com/in/javierlopezdeancos/details/featured/1580836491525/single-media-viewer/",
           "image": {
             "alt": "Captura de pantalla 2022-03-25 a las 20.41.19.png",
@@ -1114,26 +1132,20 @@
         ]
       },
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Go Bootcamp: Master Golang with 1000+ Exercises and Projects",
-        "startDate": "2019-09-01",
-        "finishDate": "2019-12-01",
+        "name": "Degree in Advertising and Graphic Design.",
+        "startDate": "2006-10-01",
+        "finishDate": "2008-02-01",
         "institution": {
-          "name": "Udemy",
-          "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-b285d17f-51ac-45ba-a355-dcb98a6468f3/",
+          "name": "Toledo School of Fine Arts",
+          "description": "* Toledo School of Fine Arts (2008)\n     Degree in Advertising and Graphic Design.",
+          "URL": "http://www.escueladeartetoledo.es",
           "image": {
-            "alt": "Captura de pantalla 2022-03-25 a las 20.47.52.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/41dc497b-e509-42b1-989a-aa05d7e408df_captura-de-pantalla-.png"
+            "alt": "LOGOEATIHistoricopng.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/bdbf0920-1b9f-48a4-a0df-8dfb4eec10f7_logoeatihistoricopng.png"
           }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Golang",
-            "type": "technology"
-          }
-        ]
+        }
       },
       {
         "studyType": "officialDegree",
@@ -1148,22 +1160,6 @@
           "image": {
             "alt": "institucional.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/13d5d203-321a-4d5d-9bc1-afae0e2602c5_institucional.png"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Degree in Advertising and Graphic Design.",
-        "startDate": "2006-10-01",
-        "finishDate": "2008-02-01",
-        "institution": {
-          "name": "Toledo School of Fine Arts",
-          "description": "* Toledo School of Fine Arts (2008)\n     Degree in Advertising and Graphic Design.",
-          "URL": "http://www.escueladeartetoledo.es",
-          "image": {
-            "alt": "LOGOEATIHistoricopng.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/bdbf0920-1b9f-48a4-a0df-8dfb4eec10f7_logoeatihistoricopng.png"
           }
         }
       }
@@ -1181,27 +1177,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "PostCSS",
-          "type": "technology"
-        },
-        {
-          "name": "Sass",
-          "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
+          "name": "Express",
           "type": "technology"
         },
         {
@@ -1209,33 +1185,53 @@
           "type": "technology"
         },
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostCSS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sass",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
           "type": "technology"
         },
         {
           "name": "web components",
           "type": "technology"
-        },
-        {
-          "name": "Express",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "PHP",
-          "type": "technology"
-        },
         {
           "name": ".NET",
           "type": "technology"
         },
         {
           "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
           "type": "technology"
         }
       ]
