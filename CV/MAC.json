@@ -570,8 +570,8 @@
           "description": "Higgsboson class components is a set of classes to style core native components.",
           "URL": "https://github.com/javierlopezdeancos/higgsboson",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/26/3f1c52a4-a81f-48a1-bbb0-e04d8c42348c_logo.svg"
+            "alt": "logo-light.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/26/68dfb7f2-7b6f-4a25-bdae-7343057a5605_logo-light.png"
           }
         },
         "type": "sideProject",
