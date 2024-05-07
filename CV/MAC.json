@@ -79,10 +79,6 @@
         "URL": "https://github.com/javierlopezdeancos"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/javierland"
-      },
-      {
         "type": "other",
         "URL": "https://javierlopezdeancos.dev"
       }
@@ -1279,10 +1275,6 @@
         {
           "URL": "https://github.com/javierlopezdeancos",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/javierland",
-          "type": "twitter"
         }
       ],
       "contactMails": [
