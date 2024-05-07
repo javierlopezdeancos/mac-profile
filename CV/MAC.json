@@ -88,7 +88,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "AtomicJar Inc",
+          "name": "AtomicJar",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/9e33c0cd-7f17-45fb-bd8d-255e49f6e326_atomicjar_logo_full_.svg",
             "alt": "Atomicjar_Logo_Full_Color_RGB-1.svg"
