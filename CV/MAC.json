@@ -88,6 +88,47 @@
     "jobs": [
       {
         "organization": {
+          "name": "Docker Inc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/00674f6a-6578-435c-9774-e8a3835dbdaf_docker-mark-blue.png",
+            "alt": "docker-mark-blue.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "AtomicJar",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/14ff134b-1be5-4db7-8d95-109bcdfb96c5_captura-de-pantalla-.png",
