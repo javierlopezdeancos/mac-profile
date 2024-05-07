@@ -88,6 +88,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "AtomicJar Inc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/9e33c0cd-7f17-45fb-bd8d-255e49f6e326_atomicjar_logo_full_.svg",
+            "alt": "Atomicjar_Logo_Full_Color_RGB-1.svg"
+          },
+          "URL": "https://www.atomicjar.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Engineer",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Wayflyer",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/26/70ae3daa-08f5-46d4-ad25-91be8e810ce5_6126893ee3f0c5aeee0d.svg",
