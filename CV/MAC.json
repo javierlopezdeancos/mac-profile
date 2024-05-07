@@ -1316,6 +1316,10 @@
           "type": "technology"
         },
         {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
           "name": "PostCSS",
           "type": "technology"
         },
