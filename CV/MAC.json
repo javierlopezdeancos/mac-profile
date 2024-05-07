@@ -90,8 +90,8 @@
         "organization": {
           "name": "Docker Inc",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/00674f6a-6578-435c-9774-e8a3835dbdaf_docker-mark-blue.png",
-            "alt": "docker-mark-blue.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/0dc7891e-8d2e-48e1-9dc3-3ce5fc9d250f_docker-logo-blue.png",
+            "alt": "docker-logo-blue.png"
           }
         },
         "roles": [
