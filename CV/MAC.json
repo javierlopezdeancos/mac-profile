@@ -1288,6 +1288,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Express",
           "type": "technology"
         },
