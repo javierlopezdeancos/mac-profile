@@ -1300,6 +1300,10 @@
           "type": "technology"
         },
         {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
