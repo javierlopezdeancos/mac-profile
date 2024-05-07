@@ -1284,6 +1284,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "Express",
           "type": "technology"
         },
