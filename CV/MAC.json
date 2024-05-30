@@ -147,6 +147,11 @@
             "name": "Senior Frontend Engineer",
             "startDate": "2023-03-01",
             "finishDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "- Help to get Testcontainers Cloud to production and implement the dashboard redesign for the Testcontainers Cloud dashboard implementing from scratch an internal design system.\n- Help users to track the container's life cycle that our users build and run on the testcontainers cloud platform."
+              }
+            ],
             "competences": [
               {
                 "name": "CSS",
