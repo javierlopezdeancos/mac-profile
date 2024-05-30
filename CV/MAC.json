@@ -92,12 +92,18 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/0dc7891e-8d2e-48e1-9dc3-3ce5fc9d250f_docker-logo-blue.png",
             "alt": "docker-logo-blue.png"
-          }
+          },
+          "URL": "https://www.docker.com"
         },
         "roles": [
           {
             "name": "Senior Software Engineer",
             "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "- Help to Core Services in Platform\n- Assist with Testcontainers Cloud frontend maintenance\n- Support Core Experiences and Projects teams."
+              }
+            ],
             "competences": [
               {
                 "name": "Docker",
