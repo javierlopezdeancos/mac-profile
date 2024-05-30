@@ -794,6 +794,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "What I learn implementing design systems",
+          "description": "What I learn implementing design systems",
+          "URL": "https://docs.google.com/presentation/d/1V99aSOYESzUE7wm71hwJzguP3GB__zVv9E_SOXNMVNw/edit?usp=share_link",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/30/bf3bdb4f-fa58-4737-a718-df065a18e500_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2024-05-30 a las 12.10.15.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "Talk"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Doesn't have risk sexual relationships with Typescript",
           "description": "You are tried with your typescript experience? That could do typescript for us? When do should use it?\n",
           "URL": "https://gdgtoledo.github.io/web/meetups/2020-02-27-lightning-talks-first-edition/",
