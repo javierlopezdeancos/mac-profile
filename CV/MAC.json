@@ -88,6 +88,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ontruck AI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/23/75f7fddf-89e2-403d-9f03-e0100471c7b0_64ca37391046bd0e764d.svg",
+            "alt": "64ca37391046bd0e764dc732_Ontruck Logo_White.svg"
+          },
+          "URL": "https://www.ontruck.com/en"
+        },
+        "roles": [
+          {
+            "name": "Staff Frontend Engineer",
+            "startDate": "2024-07-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Docker Inc",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/07/0dc7891e-8d2e-48e1-9dc3-3ce5fc9d250f_docker-logo-blue.png",
