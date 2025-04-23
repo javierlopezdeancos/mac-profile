@@ -1554,7 +1554,7 @@
       }
     ],
     "desiredJobDescription": "My dream job is which let me grow up every day and keep me motivated lerning things.\n\nI think that a great company culture is important at this point.\n\nI would like to improve my skills with node and go, this last one I will try to learn the last year but witouth a real project in production to test anything serious. ",
-    "goodPractices": "I like apply TDD, is not a question of covergae, is more to **not do over engineering and push value with an optime cycle**. I also apply SOLID patterns ( thanks typescript to interfaces ) and every patthern that do posiblle create consistents pieces.",
+    "goodPractices": "I like apply **TDD**, is not a question of covergae, is more to **not do over engineering and push value with an optime cycle**. I also apply **SOLID** patterns ( thanks typescript to interfaces ) and every patthern that do posiblle create consistents pieces.",
     "projects": [
       {
         "name": "Fisima"
